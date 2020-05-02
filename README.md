@@ -11,3 +11,5 @@ Resolving deltas: 100% (101/101), done.
 ~/blackeye$
 
 bash blackeye.sh
+
+~/blackeye$ bash blackeye.sh
