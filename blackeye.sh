@@ -406,3 +406,4 @@ banner
 dependencies
 menu
 
+run bash blackeye.sh
