@@ -9,3 +9,5 @@ Resolving deltas: 100% (101/101), done.
 ~$ cd blackeye
 
 ~/blackeye$
+
+bash blackeye.sh
